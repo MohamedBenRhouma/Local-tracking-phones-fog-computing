@@ -1,6 +1,10 @@
 # Python Real-time Location Tracker
+<h2> Project Overview</h2>
+ 
+<p align="center">
+  <img src="Overview.gif" alt="Project Overview" width="450">
+</p>
 
-![Project Overview ](example.gif)
 
 
 Ce projet Python est une application serveur qui permet de suivre en temps réel la localisation des utilisateurs. Les utilisateurs envoient leurs données de localisation depuis des appareils clients, et le serveur affiche ces données sur une carte. L'application utilise Flask pour créer une API permettant aux clients d'envoyer et de recevoir des données de localisation.
